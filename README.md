@@ -3,7 +3,7 @@
      <h1>Hi! I'm Lucas Adriano / Campinas-SP</br>
       Beginner Full Stack Developer </h1>
      <p> 🏣 I'm currently working at Canuto Dev</br>
-         ⚙️ I use daily: VSCode - Visual Studio 2019 - Xampp </br>
+         ⚙️ I use daily: VSCode - Visual Studio 2019  </br>
          📢 Main characteristics: Proactive, communicative and jokester</br>
          🧳 Language: Portuguese(BR)-Native, English-Basic - Italian-Beginner</br>
          🎓 Learning all about FrontEnd and BackEnd</br>
