@@ -8,7 +8,6 @@
          🧳 Language: Portuguese(BR)-Native, English-Basic - Italian-Beginner</br>
          🎓 Learning all about FrontEnd and BackEnd</br>
          💬 Ping me about Games, Api, Veu, Drinks, Development</br>
-         📫 Reach me: bit.ly/LucasAdrianoS</br>
          📌 Fun fact: I'm a big fan of open world games</p>
          
   </br>
